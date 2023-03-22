@@ -1,0 +1,57 @@
+body {
+    font-family: ;
+    background-image: url("../PARCIAL2-RODRIGO/fondo.png");
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    color: #FF4E00;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-style: oblique;
+    font-weight: normal;
+    font-size: xx-large;
+    text-align: center;
+    background-color: #FF4E00;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+ol {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+div {
+    font-family: 'Roboto', sans-serif;
+    font-style: oblique;
+    font-size: small;
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+arriba {
+    font-family: 'Roboto', sans-serif;
+    font-style: oblique;
+    font-weight: normal;
+    font-size: normal;
+    text-align: center;
+    background-color: #FF4E00;
+    color: rgb(0, 0, 0);
+}
